@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/mattn/go-runewidth v0.0.23
-	github.com/modelcontextprotocol/go-sdk v1.5.0
+	github.com/modelcontextprotocol/go-sdk v1.6.0
 	github.com/shirou/gopsutil/v4 v4.26.4
 	github.com/spf13/cobra v1.10.2
 	github.com/yusufpapurcu/wmi v1.2.4
@@ -14,7 +14,7 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.7.0 // indirect
 	github.com/ebitengine/purego v0.10.0 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
-	github.com/google/jsonschema-go v0.4.2 // indirect
+	github.com/google/jsonschema-go v0.4.3 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20260216142805-b3301c5f2a88 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
