@@ -4,8 +4,8 @@ go 1.25.0
 
 require (
 	github.com/mattn/go-runewidth v0.0.28
-	github.com/modelcontextprotocol/go-sdk v1.6.1
-	github.com/shirou/gopsutil/v4 v4.26.7
+	github.com/modelcontextprotocol/go-sdk v1.7.0
+	github.com/shirou/gopsutil/v4 v4.26.6
 	github.com/spf13/cobra v1.10.2
 	github.com/yusufpapurcu/wmi v1.2.4
 )
@@ -25,5 +25,7 @@ require (
 	github.com/tklauser/numcpus v0.11.0 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
 	golang.org/x/oauth2 v0.35.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/time v0.15.0 // indirect
 )
